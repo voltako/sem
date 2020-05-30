@@ -1,0 +1,3 @@
+/home/nikita/Рабочий стол/сортировки сортировочки/quicksort/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/Рабочий стол/сортировки сортировочки/quicksort/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/Рабочий стол/сортировки сортировочки/quicksort/cmake-build-debug/CMakeFiles/quicksort.dir

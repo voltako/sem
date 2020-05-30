@@ -1,0 +1,1 @@
+/usr/bin/cc  -std=c99 -fopenmp -g   CMakeFiles/_.dir/main.c.o  -o _ 
