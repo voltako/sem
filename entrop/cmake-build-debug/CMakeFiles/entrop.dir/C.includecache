@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikita/Рабочий стол/entrop/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+assert.h
+-
+fcntl.h
+-
+string.h
+-
+unistd.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+math.h
+-
+

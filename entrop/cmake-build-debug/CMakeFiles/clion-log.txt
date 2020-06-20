@@ -1,0 +1,7 @@
+/opt/clion-2019.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/home/nikita/Рабочий стол/entrop"
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.16 or higher is required.  You are running version 3.15.3
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/nikita/Рабочий стол/entrop/cmake-build-debug/CMakeFiles/CMakeOutput.log".
