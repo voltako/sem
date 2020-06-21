@@ -1,0 +1,3 @@
+/home/nikita/Рабочий стол/sem/3 задание/3zad2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nikita/Рабочий стол/sem/3 задание/3zad2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nikita/Рабочий стол/sem/3 задание/3zad2/cmake-build-debug/CMakeFiles/3zad2.dir
